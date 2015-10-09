@@ -16,6 +16,8 @@ that once you bring up this environment you will be able to ssh
 stack@api (or whatever your hostname is) from any machines on your
 network.
 
+DIO FAGIANO
+
 Getting Started
 ------------------------
 
